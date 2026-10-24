@@ -1,0 +1,17 @@
+# Model 12: Local image and data folders
+/Abondend/
+/dataset images/
+/live_dataset_images/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
