@@ -1,14 +1,14 @@
-# Model_12 — 2221 Master Sniper Engine
+# crossovervision-ai
 
 > **Purpose:** An image-based trading decision-support application that analyses chart screenshots, displays estimated trade probabilities, and records actual trade outcomes for future dataset improvement.
 
-Model_12 provides a simple workflow: capture a chart, analyse the setup, review the AI verdict, and save the completed trade result.
+crossovervision-ai provides a simple workflow: capture a chart, analyse the setup, review the AI verdict, and save the completed trade result.
 
 > **Important:** Model probabilities are estimates, not guaranteed outcomes. Always follow your trading plan and risk-management rules.
 
 ## Table of Contents
 
-* [How Model_12 Works](#how-model_12-works)
+* [How crossovervision-ai Works](#how-crossovervision-ai-works)
 * [Step-by-Step Workflow](#step-by-step-workflow)
 * [Understanding the AI Verdict](#understanding-the-ai-verdict)
 * [The Dataset Feedback Loop](#the-dataset-feedback-loop)
@@ -17,7 +17,7 @@ Model_12 provides a simple workflow: capture a chart, analyse the setup, review 
 * [Screenshots](#screenshots)
 * [Important Notes](#important-notes)
 
-## How Model_12 Works
+## How crossovervision-ai Works
 
 The application helps users review potential trading setups using chart images and a trained model.
 
